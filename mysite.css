@@ -1,5 +1,19 @@
 <link rel="stylesheet" href="mysite.css">
 fieldset {
-    background-color: pink;
 
+}
+
+form {
+    background-color: gray;
+    padding: 10pt;
+    border-radius:15px;
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+
+}
+
+h1 {
+    font-size: 64px;
 }
